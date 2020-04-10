@@ -2,7 +2,7 @@
 title: "Its an Amazing Place to Be"
 date: 2020-04-10T12:22:01+01:00
 weight: 2
-draft: true
+draft: false
 ---
 
 # 2020

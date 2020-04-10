@@ -1,7 +1,7 @@
 ---
 title: "Deploy a Go Web Service as an Azure Web Application Using Docker"
 date: 2020-04-10T12:54:58+01:00
-draft: true
+draft: false
 ---
 
 Azure Web Applications can only support a limited number of languages and whilst Go was supported for a time it is no longer so as an alternative is to serve a custom Docker image with a Go web application within it, hosted on a public registry such as Docker Hub or a private one within Azure itself. The following focuses on the use of a private registry hosted in Azure.
